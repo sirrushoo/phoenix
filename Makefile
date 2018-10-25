@@ -35,7 +35,8 @@ LDFLAGS =
 # WINDOWS
 #
 # comment out below for non-windows builds
-WIN = 1
+# commented out 
+#WIN = 1
 
 ifdef WIN
 #windows settings
